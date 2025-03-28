@@ -30,10 +30,10 @@ types/
 
 
 ## Aprendizaje 
-Tipar por completo todo los componentes
-Modularizar mas partes del código a componentes
-Agregar páginación
-Se intento abstraer gran parte de la lógica en los componentes pero aun se puede mejorar.
+Tipar por completo todo los componentes                   
+Modularizar mas partes del código a componentes                 
+Agregar páginación                       
+Se intento abstraer gran parte de la lógica en los componentes pero aun se puede mejorar.                    
 
 
 
